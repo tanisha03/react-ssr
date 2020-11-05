@@ -23,5 +23,5 @@ Starting the react server
 npm start
 ```
 
-View it on ![localhost:3000](http://localhost:3000/)
+View it on [localhost:3000](http://localhost:3000/)
 
