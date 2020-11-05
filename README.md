@@ -1,6 +1,6 @@
 # React Server Side Rendering Example Code
 
-This is the companion repository for the React Server-Side Rendering from Scratch article.
+React Server-Side Rendering from Scratch.
 
 ## Getting started
 
@@ -24,8 +24,3 @@ Starting the mock API server
 npm run api
 ```
 
-## Note - This repo has some extra code like the modal. This is because in the future component-centrie code splitting will be added on top of it
-
-## To be added
-
-Code-splitting using React-Loadable (both route-centric and component-centric).
