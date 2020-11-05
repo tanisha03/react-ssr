@@ -4,7 +4,7 @@ import { Switch, Navlink, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Modal from './components/Modal';
 import NoMatch from './components/NoMatch';
-import UniversalDataloader from './components/UniversalDataloader';
+import UniversalDataloader from './components/UniversalDataLoader';
 
 import routes from './routes';
 
