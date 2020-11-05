@@ -11,6 +11,11 @@ Then install the dependencies
 ```shell
 npm install
 ```
+Starting the mock API server
+
+```shell
+npm run api
+```
 
 Starting the react server
 
@@ -18,9 +23,5 @@ Starting the react server
 npm start
 ```
 
-Starting the mock API server
-
-```shell
-npm run api
-```
+View it on ![localhost:3000](http://localhost:3000/)
 
