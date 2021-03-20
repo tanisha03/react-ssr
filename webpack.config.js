@@ -1,8 +1,6 @@
 const path = require('path');
 const webpack = require('webpack');
 const nodeExternals = require('webpack-node-externals');
-const autoprefixer = require('autoprefixer');
-const MiniCssExtract = require('mini-css-extract-plugin');
 
 const common = {
   rules: [{ test: /\.(js)$/, use: 'babel-loader' }],
