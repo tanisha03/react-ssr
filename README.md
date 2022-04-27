@@ -1,6 +1,6 @@
 # React Server Side Rendering Example Code
 
-React Server-Side Rendering from Scratch.
+Server-Side Rendering with React from scratch.
 
 ## Getting started
 
